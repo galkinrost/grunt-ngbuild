@@ -1,0 +1,48 @@
+{
+  "name": "grunt-ng-build",
+  "description": "The best tool for building Angularjs app",
+  "version": "0.0.1",
+  "homepage": "https://github.com/galkinrost/grunt-ngbuild",
+  "author": {
+    "name": "galkinrost",
+    "email": "galkinrost@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/galkinrost/grunt-ngbuild.git"
+  },
+  "bugs": {
+    "url": "https://github.com/galkinrost/grunt-ngbuild/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/galkinrost/grunt-ngbuild/blob/master/LICENSE-MIT"
+    }
+  ],
+  "files": [
+    "tasks",
+    "test"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-mocha-cli": "^1.8.0",
+    "should": "^3.3.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "ngbuild": "0.0.46"
+  }
+}
