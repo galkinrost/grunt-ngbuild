@@ -1,7 +1,7 @@
 {
   "name": "grunt-ng-build",
   "description": "ngbuild grunt plugin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/galkinrost/grunt-ngbuild",
   "author": {
     "name": "galkinrost",
