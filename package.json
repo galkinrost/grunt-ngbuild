@@ -1,6 +1,6 @@
 {
   "name": "grunt-ng-build",
-  "description": "The best tool for building Angularjs app",
+  "description": "ngbuild grunt plugin",
   "version": "0.0.1",
   "homepage": "https://github.com/galkinrost/grunt-ngbuild",
   "author": {
@@ -43,6 +43,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "ngbuild": "0.0.46"
+    "ngbuild": "1.0.0"
   }
 }
