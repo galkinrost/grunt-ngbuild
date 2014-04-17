@@ -43,6 +43,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "ngbuild": "1.0.0"
+    "ngbuild": "1.0.2"
   }
 }

@@ -8,6 +8,6 @@ describe('grunt-ngbuild', function(){
             src:'test/app/app.js'
         });
         var expected = fs.readFileSync('test/expected/app.js').toString();
-        expected.should.equal(actual);
+        actual.should.equal(expected);
     });
 });
